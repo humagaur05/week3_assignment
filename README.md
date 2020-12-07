@@ -1,5 +1,5 @@
 # week3_assignment
-Upstac week 3 assignment
+Upstac week 3 assignment completion
 
 This assignment is to complete the following tasks:
 
